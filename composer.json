@@ -1,0 +1,16 @@
+{
+    "name": "ovejorock/biomentha",
+    "description": "Tienda Virtual",
+    "type": "project",
+    "require": {
+        "mercadopago/dx-php": "^2.1",
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Rojas",
+            "email": "cesar.ramone@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DIR_LAYOUTS already defined in /home/biomenth/public_html/config/constants.php on line 3
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DEFAULT_EMAIL already defined in /home/biomenth/public_html/config/constants.php on line 5
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DB_HOST already defined in /home/biomenth/public_html/config/constants.php on line 9
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DB_USER already defined in /home/biomenth/public_html/config/constants.php on line 10
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DB_PASSWORD already defined in /home/biomenth/public_html/config/constants.php on line 11
+[27-Aug-2020 19:24:06 America/Caracas] PHP Notice:  Constant DB_NAME already defined in /home/biomenth/public_html/config/constants.php on line 12
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DIR_LAYOUTS already defined in /home/biomenth/public_html/config/constants.php on line 3
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DEFAULT_EMAIL already defined in /home/biomenth/public_html/config/constants.php on line 5
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DB_HOST already defined in /home/biomenth/public_html/config/constants.php on line 9
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DB_USER already defined in /home/biomenth/public_html/config/constants.php on line 10
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DB_PASSWORD already defined in /home/biomenth/public_html/config/constants.php on line 11
+[15-Sep-2020 18:07:47 America/Caracas] PHP Notice:  Constant DB_NAME already defined in /home/biomenth/public_html/config/constants.php on line 12
+[28-Sep-2020 20:35:54 America/Caracas] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'forge'@'localhost' (using password: YES) in /home/biomenth/public_html/config/constants.php on line 64
+[28-Sep-2020 19:37:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/biomenth/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationRegistry.php on line 57
+[28-Sep-2020 19:37:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/biomenth/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationRegistry.php on line 57
+[28-Sep-2020 19:46:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/biomenth/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationRegistry.php on line 57
+[28-Sep-2020 19:58:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/biomenth/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationRegistry.php on line 57
+[28-Sep-2020 20:00:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/biomenth/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationRegistry.php on line 57
+[28-Sep-2020 20:03:53 America/Mexico_City] PHP Notice:  Undefined index: ref in /home/biomenth/public_html/AccionCarta.php on line 86
+[28-Sep-2020 21:03:54 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/biomenth/public_html/layouts/order.php:31
+Stack trace:
+#0 /home/biomenth/public_html/order.php(9): include()
+#1 {main}
+  thrown in /home/biomenth/public_html/layouts/order.php on line 31
+[28-Sep-2020 21:04:11 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/biomenth/public_html/layouts/order.php:31
+Stack trace:
+#0 /home/biomenth/public_html/order.php(9): include()
+#1 {main}
+  thrown in /home/biomenth/public_html/layouts/order.php on line 31
+[28-Sep-2020 21:04:46 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/biomenth/public_html/layouts/order.php:35
+Stack trace:
+#0 /home/biomenth/public_html/order.php(9): include()
+#1 {main}
+  thrown in /home/biomenth/public_html/layouts/order.php on line 35
+[01-Oct-2020 11:07:43 America/Mexico_City] {
+  "status": 502,
+  "message": "Bad Gateway"
+}
+
+[01-Oct-2020 11:07:43 America/Mexico_City] PHP Notice:  Undefined index: id in /home/biomenth/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Config.php on line 113
+[01-Oct-2020 11:07:43 America/Mexico_City] PHP Notice:  Undefined index: country_id in /home/biomenth/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Config.php on line 114
+[07-Jan-2021 15:22:25 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'biomenth_user'@'localhost' (using password: YES) in /home/biomdtpc/public_html/config/constants.php on line 64
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:34:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biomdtpc/public_html/layouts/store.php on line 37
+[03-Aug-2021 12:01:29 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:10 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:21 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:23 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:25 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:28 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:31 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:34 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:36 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:38 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:40 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:41 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:45 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:47 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:48 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:52 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Sep-2021 06:24:54 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[04-Oct-2021 04:55:09 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[04-Oct-2021 04:55:27 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[04-Oct-2021 04:55:39 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[17-Oct-2021 20:13:24 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[18-Oct-2021 10:22:18 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Oct-2021 10:25:16 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[02-Nov-2021 16:31:53 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[23-Dec-2021 22:05:23 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[23-Dec-2021 22:05:40 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[23-Dec-2021 22:05:57 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[17-Jan-2022 18:13:43 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[17-Jan-2022 18:14:01 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[17-Jan-2022 18:14:31 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Jan-2022 17:44:39 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[20-Jan-2022 15:15:42 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Jan-2022 00:56:29 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Jan-2022 05:51:49 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Jan-2022 23:18:37 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[23-Jan-2022 03:32:53 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[31-Jan-2022 15:55:58 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[31-Jan-2022 15:59:27 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[14-Feb-2022 03:21:38 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[14-Feb-2022 03:21:55 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[14-Feb-2022 03:22:36 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[27-Feb-2022 17:19:58 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[28-Feb-2022 18:14:46 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[03-Mar-2022 12:02:13 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[03-Mar-2022 12:02:22 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[08-Mar-2022 20:23:08 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[08-Mar-2022 20:28:42 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[09-Mar-2022 08:44:08 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[11-Mar-2022 14:55:43 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[16-Mar-2022 14:14:26 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[21-Mar-2022 18:21:43 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[21-Mar-2022 18:41:04 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Mar-2022 18:58:15 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Mar-2022 18:59:20 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[22-Mar-2022 18:59:48 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Mar-2022 15:16:25 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[24-Mar-2022 21:55:14 America/Mexico_City] PHP Notice:  Undefined index: ref in /home/biomdtpc/public_html/AccionCarta.php on line 94
+[24-Mar-2022 21:55:14 America/Mexico_City] PHP Notice:  Undefined index: issuer in /home/biomdtpc/public_html/AccionCarta.php on line 103
+[24-Mar-2022 21:55:16 America/Mexico_City] {"message":"internal_error","error":null,"status":500,"cause":[]}
+[24-Mar-2022 21:55:16 America/Mexico_City] PHP Fatal error:  Uncaught Exception: Internal API Error in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:268
+Stack trace:
+#0 /home/biomdtpc/public_html/AccionCarta.php(109): MercadoPago\Entity->save()
+#1 {main}
+  thrown in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 268
+[24-Mar-2022 21:56:33 America/Mexico_City] PHP Notice:  Undefined index: ref in /home/biomdtpc/public_html/AccionCarta.php on line 94
+[24-Mar-2022 21:56:33 America/Mexico_City] PHP Notice:  Undefined index: issuer in /home/biomdtpc/public_html/AccionCarta.php on line 103
+[24-Mar-2022 21:56:34 America/Mexico_City] {"message":"internal_error","error":null,"status":500,"cause":[]}
+[24-Mar-2022 21:56:34 America/Mexico_City] PHP Fatal error:  Uncaught Exception: Internal API Error in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:268
+Stack trace:
+#0 /home/biomdtpc/public_html/AccionCarta.php(109): MercadoPago\Entity->save()
+#1 {main}
+  thrown in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 268
+[24-Mar-2022 23:32:47 America/Mexico_City] PHP Notice:  Undefined index: ref in /home/biomdtpc/public_html/AccionCarta.php on line 94
+[24-Mar-2022 23:32:47 America/Mexico_City] PHP Notice:  Undefined index: issuer in /home/biomdtpc/public_html/AccionCarta.php on line 103
+[24-Mar-2022 23:32:48 America/Mexico_City] {"message":"internal_error","error":null,"status":500,"cause":[]}
+[24-Mar-2022 23:32:48 America/Mexico_City] PHP Fatal error:  Uncaught Exception: Internal API Error in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:268
+Stack trace:
+#0 /home/biomdtpc/public_html/AccionCarta.php(109): MercadoPago\Entity->save()
+#1 {main}
+  thrown in /home/biomdtpc/public_html/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 268
+[25-Mar-2022 14:20:28 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[25-Mar-2022 14:21:05 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[27-Mar-2022 22:42:31 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[27-Mar-2022 22:43:46 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[29-Mar-2022 01:29:53 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[29-Mar-2022 12:54:29 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[29-Mar-2022 12:54:39 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[07-Apr-2022 05:47:08 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[09-Apr-2022 21:55:23 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[09-Apr-2022 21:56:18 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:41 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:45 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:47 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:49 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:50 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:52 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:53 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:55 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:57 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:13:58 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:00 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:01 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:03 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:04 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:06 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[19-Apr-2022 13:14:08 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:45:12 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:49:56 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:50:44 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:51:00 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:51:12 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[26-Apr-2022 16:53:08 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
+[02-May-2022 06:27:10 America/Mexico_City] PHP Notice:  Undefined index: variante in /home/biomdtpc/public_html/AccionCarta.php on line 20
