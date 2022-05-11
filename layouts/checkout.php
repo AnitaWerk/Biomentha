@@ -82,13 +82,14 @@ if ($cart->total_items() <= 0) {
                 <h4>Datos Personales, Direccion de Envio e Información de Pago</h4>
                 <hr />
                 <p><input type="text" name="name" class="form-control" placeholder="Nombre" required /></p>
-                <p><input type="email" name="email" class="form-control" placeholder="suemail@dominio.com" required /></p>
+                <p><input type="email" name="email" class="form-control" placeholder="Apellido" required /></p>
                 <p><input type="text" name="phone" class="form-control" placeholder="Telefono" required /></p>
-                <p><textarea name="address" class="form-control" placeholder="Direccion" required></textarea></p>
-                <p><input type="text" name="street" class="form-control" placeholder="Calle" required /></p>
-                <p><input type="text" name="suburb" class="form-control" placeholder="Colonia" required /></p>
-                <p><input type="text" name="postal_code" class="form-control" placeholder="Codigo Postal" required /></p>
-                <p><textarea name="additional_address" class="form-control" placeholder="Información Adicional, entre que calles se encuentra el domicilio (opcional)"></textarea></p>
+                <p><input type="text" name="phone" class="form-control" placeholder="Telefono 2" /></p>
+                <p><textarea name="address" class="form-control" placeholder="Ciudad" required></textarea></p>
+                <p><input type="text" name="street" class="form-control" placeholder="Codigo Postal" required /></p>
+                <p><input type="text" name="suburb" class="form-control" placeholder="Direccion de Envio" required /></p>
+                <p><input type="text" name="postal_code" class="form-control" placeholder="suemail@dominio.com" required /></p>
+                
             </div>
             <div class="col-lg-6">
                 <h4>Total a pagar</h4>
