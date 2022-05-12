@@ -521,7 +521,7 @@
 
                             <div class="col-4 menu-item-price text-right">
 
-                                <h6>$120</h6>
+                                <h6>$125</h6>
 
                             </div>
 
@@ -551,7 +551,7 @@
 
                             <div class="col-4 menu-item-price text-right">
 
-                                <h6>$120</h6>
+                                <h6>$125</h6>
 
                             </div>
 
@@ -581,7 +581,7 @@
 
                             <div class="col-4 menu-item-price text-right">
 
-                                <h6>$120</h6>
+                                <h6>$125</h6>
 
                             </div>
 
@@ -611,7 +611,7 @@
 
                             <div class="col-4 menu-item-price text-right">
 
-                                <h6>$120</h6>
+                                <h6>$125</h6>
 
                             </div>
 

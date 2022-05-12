@@ -172,6 +172,7 @@ if ($cart->total_items() <= 0) {
         </div>-->
         </div>
         <div class="footBtn">
+            <a href="mailto:contacto@biomentha.com.mx" class="btn btn-warning"><i class="fa fa-shopping-cart"></i>Enviar</a>
             <a href="store.php" class="btn btn-warning"><i class="fa fa-shopping-cart"></i> Continue Comprando</a>
         </div>
     </form>
